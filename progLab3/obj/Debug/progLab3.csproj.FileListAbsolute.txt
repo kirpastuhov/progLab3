@@ -1,0 +1,9 @@
+/Users/kirill/progLab3/progLab3/bin/Debug/progLab3.exe
+/Users/kirill/progLab3/progLab3/bin/Debug/progLab3.pdb
+/Users/kirill/progLab3/progLab3/bin/Debug/INIFileParserDotNetCore.dll
+/Users/kirill/progLab3/progLab3/bin/Debug/Newtonsoft.Json.dll
+/Users/kirill/progLab3/progLab3/bin/Debug/Newtonsoft.Json.xml
+/Users/kirill/progLab3/progLab3/obj/Debug/progLab3.csprojResolveAssemblyReference.cache
+/Users/kirill/progLab3/progLab3/obj/Debug/progLab3.csproj.CoreCompileInputs.cache
+/Users/kirill/progLab3/progLab3/obj/Debug/progLab3.exe
+/Users/kirill/progLab3/progLab3/obj/Debug/progLab3.pdb
